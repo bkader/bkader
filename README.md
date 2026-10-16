@@ -26,7 +26,7 @@
 <a href="https://github.com/bkader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bkader" height="30" width="40" /></a>
 <a href="https://dev.to/bkader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bkader" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bkader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bkader" height="30" width="40" /></a>
-<a href="https://fb.com/666bits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="666bits" height="30" width="40" /></a>
+<a href="https://fb.com/imkad3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imkad3r" height="30" width="40" /></a>
 <a href="https://instagram.com/imkad3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imkad3r" height="30" width="40" /></a>
 <a href="https://twitter.com/_bkader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_bkader" height="30" width="40" /></a>
 </p>
