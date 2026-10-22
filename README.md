@@ -13,8 +13,6 @@
 
 - 📫 You can reach me at **bouyakoub.kader@gmail.com**
 
-- 🎁 Help support my free and opensource work via PayPal at **paypal@ianhub.net**
-
 - ⚡ Fun fact **I am specialized in anything as long as I can learn it.**
 
 - 👨‍💻 All of my projects are available at **[github.com/bkader](https://github.com/bkader?tab=repositories)**
@@ -43,4 +41,11 @@
 ---
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bkader&" alt="bkader" /></p>
+
+---
+
+<div align="center">
+  <sub>🎁 Help support my free and opensource work via PayPal at <a href="https://www.paypal.com/ncp/payment/YV45BR3J6HH94">paypal@ianhub.net</a>.</sub>
+</div>
+
 
